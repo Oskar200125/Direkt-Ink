@@ -122,6 +122,7 @@ body.no-scroll {
     position: relative;
     padding-right: 35px;
     margin-left: 55px;
+    cursor: pointer;
 }
 
 .nav__link.has-subnav:after {
